@@ -36,7 +36,7 @@
 	</dependency> 
   </dependencies>
 <profiles>
-<profile>
+<!--<profile>
      <id>spring-deploy</id>
  <distributionManagement>
     <repository>
@@ -50,6 +50,6 @@
       <url>http://ip-172-31-23-20.ap-south-1.compute.internal:8081/nexus/content/repositories/spring-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
-</profile>
+</profile> -->
   </profiles>
 </project>
